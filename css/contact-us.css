@@ -7,7 +7,7 @@
 .contact-section {
   width: 100%;
   min-height: 25rem;
-  padding-top: 4rem;
+  padding-top: 3.8rem;
 }
 
 /* This is the Monteserratti font properties stored in this class to avoid repetition */
@@ -127,7 +127,7 @@
 
 @media only screen and (max-width: 768px) {
   .contact-section {
-    padding-top: 4.4rem;
+    padding-top: 3.82rem;
   }
 
   .contact-hero-section {
